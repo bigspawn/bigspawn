@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bigspawn
+- 👋 Hi, I’m Igor Grishin.
 - 👀 I’m interested in programming, music, wine and cooking.
 - 💞️ I’m looking to collaborate on golang projects.
 
